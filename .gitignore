@@ -22,6 +22,4 @@
 *.out
 *.synctex.gz
 *~
-Assignment05/NN_DebarajBarua_NareshKumarGurulingan_061117_src/.ipynb_checkpoints/
-
-
+.ipynb_checkpoints
