@@ -1,0 +1,19 @@
+Q: List three characteristics of a mulit-layer perceptron.
+A: 
+(i) 	Non-linear activation function
+(ii)	Hidden Neurons:The netowrk contains one or more layyers of hidden neurons that are not part of the input or output of the network.
+(iii)	Connectivity: Network exhibits high degrees of connectivity determined by the synapses of the net-
+work.
+
+Q: List out the different Modes of Training. Which is generally preferred and why?
+A: 
+(i)    Sequential Mode (online, pattern or stochastic mode)
+(ii)   Batch Mode
+Although sequential mode has several disadvantages, however, it is still popular because:
+– Simple to implement.
+– Provides effective solution to large and difficult problems.
+
+Q: What heuristics can be applied to the learning rates to imporove Back-propagation algorithm?
+A: 
+- Every weight should have it’s own learning rate
+– Every learning rate should be allowed to vary from one iteration to the next.
