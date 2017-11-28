@@ -1,0 +1,17 @@
+Q: How is the Parameter C in Optimal Hyperplanes for Non-separable patterns determined?
+A:
+- Determined experimentally via the standard use of a training test set
+- Or, Determined  analytically by estimating the VC dimension and then by using bounds on the generalization perfirmance of the machine based on the VC dimension
+
+Q: Summarize on the two problems associated with pattern recognition and how SVM is used in this aspect.
+A: 
+- Conceptual Problem: Dimensionality of the feature (hidden) space is purposefully made very large to enable the construction of a decision surface in the form of a hyperplane in that space. For good generalization performance, the model complexity is controlled by imposing certain constraints on the construction of the separating hyperplane, which reults in the extraction of a fraction of the training data as support vectors.
+
+- Computational Problem:  Numerical optimization in a high dimensional space suffers from the curse of dimensionality. This computational problem is avoided by using the notion of an inner product kernal (defined in accordance with Mercer's theorem) and solving the dual form of the constraineid optimization problem formulate in the input (data) space
+
+
+Q: What problems associated with SVM for Non-Linear regression?
+A: 
+- Parameters E and C must be tuned simultaneously
+- Regression is intrinsically more difficult than pattern classifiication
+
