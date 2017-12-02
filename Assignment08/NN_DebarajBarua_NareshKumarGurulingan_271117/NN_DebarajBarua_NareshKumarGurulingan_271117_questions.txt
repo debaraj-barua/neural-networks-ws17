@@ -1,0 +1,18 @@
+Q: State Cover's theorem on the separability of patterns?
+A:
+   A complex pattern-classification problem, cast in a high-dimensional space nonlinearly, is more likely to be linearly separable than in a low-dimensional space, provided that the space is not densely populated.
+
+Q: Name a few functions in the class of radial-basis functions that is covered by Micchelli’s theorem.
+A: 
+- Multiquadrics
+
+- Inverse multiquadrics
+
+- Gaussian functions
+
+
+Q: What are the features behind the popularity of the K-means algorithm?
+A: 
+- simple to implement.
+- effective in performance.
+
