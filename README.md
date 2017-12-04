@@ -4,6 +4,6 @@ Hochschule Bonn-Rhein-Sieg
 
 ## Contributors
 
-- Debaraj Barua [@debaraj-barua](https://github.com/debaraj-barua)
-- Naresh Kumar Gurulingan [@NareshGuru77](https://github.com/NareshGuru77)
+- Debaraj Barua - @debaraj-barua
+- Naresh Kumar Gurulingan - @NareshGuru77
 
