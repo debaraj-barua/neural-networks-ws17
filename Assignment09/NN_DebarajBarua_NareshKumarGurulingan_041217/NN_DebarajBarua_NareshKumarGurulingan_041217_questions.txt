@@ -1,0 +1,17 @@
+Q: What are Self Organized Maps?
+A:
+Self Organizing Maps (SOM) are a neural network model for unsupervised learning, which combine a competitive learning principle with a topological structuring of neurons such that adjacent neurons tend to have similar weight vectors.
+
+Q: What are the three essential processes of the SOM algorithm?
+A:
+- Competition
+- Cooperation
+- Weight Adaptation
+
+Q: Summarize the Various steps in the SOM Training Algorithm.
+A: 
+- Intialization: Choosing random small values for weight vectors.
+- Sampling: Drawing a sample from the input space.
+- Similarity Matching: Finding the best matching winning neuron.
+- Updating: Adjust synaptic weight vector of all neurons in the iteratively decreasing neighbourhood of the winning neuron using a learning rate which is also iteratively decreasing.
+- Continuation: Continue from sampling step until no noticable changes in feature map are observed
