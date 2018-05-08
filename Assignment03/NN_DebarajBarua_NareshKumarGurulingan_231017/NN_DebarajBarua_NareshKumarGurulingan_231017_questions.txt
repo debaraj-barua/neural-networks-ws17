@@ -1,0 +1,13 @@
+Q: Define learning in ANN.
+A: Learning is a process by which the free parameters of a neural network are adapted in an desired way through a process of stimulation by the environment in which the network is embedded.
+
+Q: List out the different Learning Rules.
+A: 
+(i)    Error-correction Learning (or, Widrow-Hoff; or, Delta Rule),
+(ii)   Memory-based learning,
+(iii)  Hebbian learning,
+(iv)   Competitive learning,
+(v)    Boltzmann learning.
+
+Q: List a difference between Hebbian and Competitive Learning.
+A: In Competitive learning only a single output neuron is active at one time. Unlike this, in Hebbian learning, several output neurons may be active at the same time.

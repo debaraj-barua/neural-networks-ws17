@@ -1,0 +1,30 @@
+Q: What are the benefits of Neural Network?
+A:
+(i)    Nonlinearity,
+(ii)   Input-Output Mapping,
+(iii)  Adaptivity,
+(iv)   Evedential Response,
+(v)    Contextual Information,
+(vi)   Fault Tolerance,
+(vii)  VLSI Implementability,
+(viii) Uniformity of Analysis and Design,
+(ix)   Neurobiological Analogy
+
+Q: What are the Rules for knowledge representation?
+A: 
+(i)  Similar inputs from similar classes should usually produce similar representa- tions inside the network, and should therefore be classified as belonging to the same category
+(ii)  Items to be categorized as separate classes should be given widely differeent representations in the network
+(iii) If a particular feature is important then there should be a large number of neurons involved in the representation of that item in the network
+(iv)  Prior information and invariances should be built into the design of a neural network, thereby simplifying the network design by not having to learn them
+
+
+Q: What are basic elements of a neuron?
+A: 
+(i)   Synapses/Connecting Links, which are Characterized by weights
+(ii)  Adder, which sums input signals, constitues a linear combiner 
+(iii) Activation Function/Squashing Function, which limits amplitude of the output of a neuron
+      Types:
+        Threshold Function
+        Piecewise-Linear Function
+        Sigmoid Function
+

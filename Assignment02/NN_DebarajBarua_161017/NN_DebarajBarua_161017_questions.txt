@@ -1,0 +1,24 @@
+Q: What are the different learning rules?
+A:
+(i)    Error-correction Learning,
+(ii)   Memory-based learning,
+(iii)  Hebbian learning,
+(iv)   Competitive learning,
+(v)    Boltzmann learning.
+
+Q: What are the different mechanisms for Hebbian learning?
+A: 
+(i)    Time dependent mechanism
+(ii)   Local mechanism
+(iii)  Interactive mechanism
+(iv)   Conjunctional or correlational mechanism
+
+Q: What are the different learning tasks?
+A: 
+(i)    Pattern association
+(ii)   Pattern recognition
+(iii)  Function approximation
+(iv)   Control
+(v)    Filtering
+(vi)   Beamforming
+

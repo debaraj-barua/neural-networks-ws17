@@ -1,0 +1,9 @@
+Q: Define shattering.
+A: If we have n data points, we get 2^n possible labellings or 2^n different learning problems. If for any of these problems, we can find a hypothesis h ε H that separates the positive examples from the negative, then the set of n points is said to have been shattered by the family of functions.
+
+Q: How is the VC dimension related to shattering?
+A: In continuation to the aforemention definition of shattering, the maximum "n" which we can shatter is the VC dimension of the function family. 
+
+Q: How do you find the number of examples sufficient to learn (with probability at least (1 - δ)) any target concept from C to within error ε. 
+
+A: m ≥ 1/ε (4log_2(2/δ)+8VCdim(H)log_2(13/ε))
